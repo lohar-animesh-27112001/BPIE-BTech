@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="emb" viewBox="0 0 56 56" aria-label="BPIE emblem (placeholder)" role="img">
+<rect width="56" height="56" rx="13" fill="#17213D"/>
+<path d="M9 23.5 C 18 12.5, 38 12.5, 47 23.5" fill="none" stroke="#E2C27E" stroke-width="3" stroke-linecap="round"/>
+<path d="M13.5 24.5 V43 H42.5 V24.5" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M22 43 V34 C22 30.2 24.6 27.6 28 27 C31.4 27.6 34 30.2 34 34 V43" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M10.5 43 H45.5" stroke="#E2C27E" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
