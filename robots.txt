@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://btech.bpie.org.in/sitemap.xml
